@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "name": "file-ferry",
+  "version": "1.0.0",
+  "description": "A simple website demonstrating remote file management",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deking254/file-ferry.git"
+  },
+  "keywords": [
+    "html",
+    "javascript",
+    "css"
+  ],
+  "author": "Dennis Ngetich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deking254/file-ferry/issues"
+  },
+  "homepage": "https://github.com/deking254/file-ferry#readme"
+}
